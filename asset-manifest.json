@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/news-monkey-react-app/static/css/main.800dd77f.chunk.css",
-    "main.js": "/news-monkey-react-app/static/js/main.3ac6f2ca.chunk.js",
-    "main.js.map": "/news-monkey-react-app/static/js/main.3ac6f2ca.chunk.js.map",
+    "main.js": "/news-monkey-react-app/static/js/main.17f3f725.chunk.js",
+    "main.js.map": "/news-monkey-react-app/static/js/main.17f3f725.chunk.js.map",
     "runtime-main.js": "/news-monkey-react-app/static/js/runtime-main.9a27642e.js",
     "runtime-main.js.map": "/news-monkey-react-app/static/js/runtime-main.9a27642e.js.map",
-    "static/js/2.65b37b7c.chunk.js": "/news-monkey-react-app/static/js/2.65b37b7c.chunk.js",
-    "static/js/2.65b37b7c.chunk.js.map": "/news-monkey-react-app/static/js/2.65b37b7c.chunk.js.map",
+    "static/js/2.f52999e3.chunk.js": "/news-monkey-react-app/static/js/2.f52999e3.chunk.js",
+    "static/js/2.f52999e3.chunk.js.map": "/news-monkey-react-app/static/js/2.f52999e3.chunk.js.map",
     "static/js/3.388ef8b9.chunk.js": "/news-monkey-react-app/static/js/3.388ef8b9.chunk.js",
     "static/js/3.388ef8b9.chunk.js.map": "/news-monkey-react-app/static/js/3.388ef8b9.chunk.js.map",
     "index.html": "/news-monkey-react-app/index.html",
     "static/css/main.800dd77f.chunk.css.map": "/news-monkey-react-app/static/css/main.800dd77f.chunk.css.map",
-    "static/js/2.65b37b7c.chunk.js.LICENSE.txt": "/news-monkey-react-app/static/js/2.65b37b7c.chunk.js.LICENSE.txt"
+    "static/js/2.f52999e3.chunk.js.LICENSE.txt": "/news-monkey-react-app/static/js/2.f52999e3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9a27642e.js",
-    "static/js/2.65b37b7c.chunk.js",
+    "static/js/2.f52999e3.chunk.js",
     "static/css/main.800dd77f.chunk.css",
-    "static/js/main.3ac6f2ca.chunk.js"
+    "static/js/main.17f3f725.chunk.js"
   ]
 }
